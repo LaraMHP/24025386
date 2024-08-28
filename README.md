@@ -1,5 +1,5 @@
 # 24025386-Lara Piaia
 
-## Introdução
+## Algoritmos-e-Robotica
 
-Repositório destido a disciplina Algorítimos e Robótica
+RepositÃ³rio destido a disciplina AlgorÃ­timos e RobÃ³tica
